@@ -8,7 +8,7 @@ These are bite-sized, often not fleshed out applications of deep learning. Begin
 
 |  **Project** | **Code Location**  | **Notes/Framework Used**  | **Attribution** |
 |---|---|---|---|
-|  This is a project | [Link name](link locale)  | PyTorch  | |
+|  multiclass classification | [Notebook](Applied-NNs/fashion-mnist.ipynb)  | Keras  | [wandb](https://www.wandb.com/) |
 
 ##### Architectures
 These are more full-fleged than the above. Some are commonly used architectures, some are more in depth applications of neural nets.
