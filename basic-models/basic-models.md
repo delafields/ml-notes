@@ -5,10 +5,12 @@ Notes on classical machine learning techniques and algorithms.
 ##### Linear Regression
 * Linear Regression [ [Notebook](Linear-Regression.ipynb) ]
 * Ridge & Lasso Regression [ [Notebook](Ridge-Lasso-Regression.ipynb) ]
+* Evaluation Metrics [ [Notebook](Regression-Evaluation-Metrics.ipynb) ]
 
 ##### Logistic Regression
 * Logistic Regression [ [Notebook](Logistic-Regression.ipynb) ]
 * Cross Entropy Loss [ [Notebook](Cross-Entropy-Loss.ipynb) ]
+* Evaluation Metrics [ [Notebook](Classification-Evaluation-Metrics.ipynb) ]
 
 ##### SVMs
 * SVMs [ [Notebook](SVM.ipynb) ]
