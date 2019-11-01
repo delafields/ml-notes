@@ -18,6 +18,7 @@ Notes on classical machine learning techniques and algorithms.
 ##### Clustering
 * K-Means [ [Notebook](K-Means.ipynb) ]
 * K Nearest Neighbors [ [Notebook](K-Nearest-Neighbors.ipynb) ]
+* PCA [ [Notebook](PCA.ipynb) ]
 
 ##### Bayesian
 * Naive Bayes [ [Notebook](Naive-Bayes.ipynb) ]
