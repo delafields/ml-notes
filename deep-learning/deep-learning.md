@@ -1,5 +1,4 @@
 # Deep Learning
----
 
 This houses some deep learning code, most copied from tutorials/others' repos. Used as a learning exercise & refresher.
 
