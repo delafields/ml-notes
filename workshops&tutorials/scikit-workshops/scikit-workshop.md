@@ -29,7 +29,6 @@ Content:
 ## Part 3
 Content:
 * [Review of scikit-learn API](Part3/Review_of_Supervised_Learning.ipynb)
-* [Gradient Boosting (again)](Part3/Gradient_Boosting.ipynb)
 * [Processing pipelines](Part3/Pipelines.ipynb)
 * [Evaluation metrics](Part3/Evaluation_Metrics.ipynb)
 * [Working with imbalanced data](Part3/Imbalanced_Data.ipynb)
