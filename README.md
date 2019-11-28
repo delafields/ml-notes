@@ -6,4 +6,4 @@ Notes and toy implementations of machine learning techniques
 
 [deep-learning](deep-learning/deep-learning.md) ⬅️ This houses some deep learning code - bite-sized projects and commonly used architectures
 
-[workshops & tutorials](workshops&tutorials/workshops-and-tutorials.md) ⬅️ This contains various workshops, courses, or tutorials I've completed/worked through
+[workshops, courses & tutorials](workshops&tutorials/workshops-tutorials-courses.md) ⬅️ This contains various workshops, courses, or tutorials I've completed/worked through
