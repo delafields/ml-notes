@@ -19,7 +19,9 @@ def customize_mpl():
 
     rcParams['figure.figsize'] = (10, 6)
     rcParams['figure.dpi'] = 150
-    rcParams['axes.color_cycle'] = dark2_colors
+    #rcParams['axes.color_cycle'] = dark2_colors
+    from cycler import cycler
+    rcParams['axes.prop_cycle'] = (cycler('color', dark2_colors))
     rcParams['lines.linewidth'] = 2
     rcParams['axes.grid'] = True
     rcParams['axes.facecolor'] = '#eeeeee'
