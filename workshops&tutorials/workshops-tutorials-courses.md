@@ -6,3 +6,6 @@
 
 # Courses
 * [Harvard CS109: Data Science](https://github.com/cs109/content)'s labs & homework assignments. Work is in the [CS109-DataScience](CS109.md) folder.
+
+# Books
+* An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani. The exercises, assignments, and labs. In the workshops/ISLR directory.
